@@ -1,0 +1,11 @@
+Row 1:  Input T300000 mismatch data!!!
+Row 1:  Vehicle BOING897 tunv has duplicate ID!!!
+Row 2:  Vehicle Hyndai has duplicate ID!!!
+Row 3:  Vehicle Ship01 has duplicate ID!!!
+Row 4:  Vehicle Masda has duplicate ID!!!
+Row 5:  Vehicle BOING754 has duplicate ID!!!
+Row 6:  Vehicle Ship02 has duplicate ID!!!
+Row 7:  Vehicle Lexus has duplicate ID!!!
+Row 8:  Vehicle BOING114 has duplicate ID!!!
+Row 9:  Vehicle Ship03 has duplicate ID!!!
+Row 10:  Vehicle Mercedes has duplicate ID!!!

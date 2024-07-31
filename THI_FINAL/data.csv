@@ -1,0 +1,11 @@
+vehicleID,vehicleType,vehicleName,weight,color,limitSpeed,isController
+VH04,Airplance,BOING897 tunv,T300000,Blue,1000,False
+VH02,Car,Hyndai,4500,White,90,False
+VH03,Ship,Ship01,100000,Blue,50,False
+VH04,Car,Masda,4500,Red,90,False
+VH05,Airplance,BOING754,350000,White,1100,False
+VH06,Ship,Ship02,120000,Red,50,False
+VH07,Car,Lexus,45000,White,90,False
+VH08,Airplance,BOING114,360000,Red,900,False
+VH09,Ship,Ship03,140000,White,60,False
+VH10,Car,Mercedes,5000,Blue,90,False
